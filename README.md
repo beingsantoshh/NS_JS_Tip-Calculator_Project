@@ -9,6 +9,7 @@ The website is designed in such a way that users won't face any UI issue - simpl
 Hosted in Netlify and url - https://csb-370k57.netlify.app/
 
 Tech stack - HTML, CSS and JS
+
 Graident source - Google
 
 ![image](https://user-images.githubusercontent.com/29736723/187064357-d50ee727-f26e-4719-9864-220d75920ee7.png)
